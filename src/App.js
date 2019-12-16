@@ -8,6 +8,8 @@ function App() {
     <div className="App">
       <div className="buttons">
         <Button>Button</Button>
+        <Button size={'large'}>Button</Button>
+        <Button size={'small'}>Button</Button>
       </div>
     </div>
   );
